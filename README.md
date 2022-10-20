@@ -6,7 +6,7 @@
 
 ## Installation
 Add 'mail.jar' and 'activation.jar' to the project libraries. 
-For Eclipse - (Right click on Libraries folder -> Add JAR file -> Select Jar) Addjar
+For Eclipse - (Right click on Libraries folder -> Add JAR file -> Select Jar)
 
 ![Addjar](https://user-images.githubusercontent.com/87890518/196944961-801d02d3-3fd4-40a4-aa21-ba78426d2710.jpg)
 
@@ -16,7 +16,7 @@ For VS code - (Go to Java Projects section in the Explorer -> Add the JAR files 
 
 
 
-Don't forget to add sender's mail address and password in the file frame.java
+Don't forget to add sender's mail address and password in the file 'frame.java'
 
 <img width="523" alt="s7" src="https://user-images.githubusercontent.com/87890518/196945729-1bceb05b-de14-4372-994d-b4c2c339c240.png">
 
